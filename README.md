@@ -82,9 +82,11 @@ The retrieved Bluesky datasets supporting the conclusions of this article are av
 
 If you use this code or dataset in your research, please cite our work accordingly.
 
-@article{Hanny.2025,
+```
+@article{Hanny2025bsky,
   title     = {Bluesky as a Social Media Data Source for Disaster Management: Investigating Spatio-temporal, Semantic and Emotional Patterns for Floods and Wildfires},
   author    = {Hanny, David and Schmidt, Sebastian and Resch, Bernd},
   journal   = {TBD},
   year      = {2025}
 }
+```
