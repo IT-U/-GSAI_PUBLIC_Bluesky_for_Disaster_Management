@@ -1,8 +1,8 @@
 # Bluesky as a Social Media Data Source for Disaster Management 
 This repository contains the replication code and materials for the study:
 
-**Hanny, D., Schmidt, S. & Resch, B. (2025).**
-*Bluesky as a Social Media Data Source for Disaster Management: Investigating Spatio-temporal, Semantic and Emotional Patterns for Floods and Wildfires.*
+**Hanny, D., Schmidt, S. & Resch, B. (2025).**<br>
+*Bluesky as a Social Media Data Source for Disaster Management: Investigating Spatio-temporal, Semantic and Emotional Patterns for Floods and Wildfires.*<br>
 [Submitted to the Journal of *Computational Social Science*]
 
 ## 📄 Overview
