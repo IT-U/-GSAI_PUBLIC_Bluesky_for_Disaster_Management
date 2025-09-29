@@ -61,7 +61,7 @@ The implemented algorithm is available in `scripts/crawling/*`.
 Additionally, our NLP analysis pipeline, involving semantic disaster-relatedness classification and emotion classfication is available as a ready-to-use script.
 
 ```bash
-python -m scripts.esda.nlp_analysis --input-file "<input-file>" --output-path "<output-file"
+python -m scripts.esda.nlp_analysis --input-file "<input-file>" --output-path "<output-file>"
 ```
 
 ## ⚙️ Getting Started
@@ -88,6 +88,3 @@ If you use this code or dataset in your research, please cite our work according
   journal   = {TBD},
   year      = {2025}
 }
-
-## 🛠 Contact
-In case of questions, please contact: David Hanny (david.hanny@it-u.at), IT:U Interdisciplinary Transformation University Austria
