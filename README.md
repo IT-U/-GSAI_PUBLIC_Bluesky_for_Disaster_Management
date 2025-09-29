@@ -76,7 +76,7 @@ Then, run the desired notebooks or scripts.
 
 ## 📊 Data Availability
 
-Due to Twitter’s (now X) API terms, we are unable to share full tweet content. However, we provide tweet IDs, ground truth relevance labels and our engineered spatiotemporal features. These can be accessed and rehydrated using the X v2 API. This dataset and accompanying metadata are available on Harvard Dataverse.
+The retrieved Bluesky datasets supporting the conclusions of this article are available on Zenodo under the DOI [10.5281/zenodo.17227256](http://doi.org/10.5281/zenodo.17227256).
 
 ## 📖 Citation
 
