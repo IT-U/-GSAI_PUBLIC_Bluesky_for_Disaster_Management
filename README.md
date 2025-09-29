@@ -17,7 +17,7 @@ This study presents a multimodal relevance classification approach that integrat
     Model comparison, visualisation and explanation with SHAP
 
 📁 Repository Structure
-
+```
 ├── environment.yml # Conda environment file
 
 ├── notebooks/      # Data exploration, (spatial) analysis and visualisation
@@ -44,6 +44,7 @@ This study presents a multimodal relevance classification approach that integrat
 │ ├── nlp/  # Functions for text processing
 │ │ ├── ...
 └── README.md # Project documentation
+```
 
 Each notebook corresponds to a specific step in the pipeline, from data loading and preprocessing to model training, inference, and evaluation. Reusable functions are available in the src/ directory.
 ⚙️ Getting Started
